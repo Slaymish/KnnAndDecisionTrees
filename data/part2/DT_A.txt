@@ -1,0 +1,8 @@
+Split on att0 (8,92) [entropy: 0.402179, gain: 0.116673]
+|--Split on att1 (8,31) [entropy: 0.732067, gain: 0.321810]
+|--|--Leaf: Classes (0,23) [entropy: 0.000000]
+|--|--Split on att2 (8,8) [entropy: 1.000000, gain: 1.000000]
+|--|--|--Leaf: Classes (0,8) [entropy: 0.000000]
+|--|--|--Leaf: Classes (8,0) [entropy: 0.000000]
+|--Leaf: Classes (0,61) [entropy: 0.000000]
+Accuracy: 100.00
